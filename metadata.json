@@ -1,0 +1,8 @@
+{
+  "name": "CHAT 100m WITHOUT NETWORK",
+  "description": "P2P offline nearby chat app connecting people within 100 meters using Bluetooth and Wi-Fi Direct.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
